@@ -1,41 +1,3 @@
-touch tue
-ls
-vi mon
-ls
-rm `
-ls
-
- 
-`
-clear
-ls
-ls
-ls -a
-ls
-clear
-touch demo1 demo2
-vi demo1
-cat demo1
-vi demo2
-cat demo2
-cat demo1 demo2
-cat demo1 >> demo2
-cat demo1 demo2
-ls
-rm `
-`
-ls
-rm demo1 demo2
-ls
-cat demo1 demo2
-ls
-clear
-ls
-rm ~
-ls
-clea
-clear
-apt update
 apt update
 clear
 ls
@@ -497,4 +459,42 @@ ls -lh
 ls
 clear
 exitexit
+exit
+apt update
+ls
+touch test
+vi test 
+cat et
+cat test 
+git status
+git init
+git status
+git add test 
+git status
+git commit test -m "adding test"
+git remote add origin https://github.com/Anudre63/test.git
+git status
+git push -u origin master
+git push --help
+ls
+pwd
+git add root
+git add /root
+git status
+git commit -u /root "adding root dir"
+git commit -u root "adding root dir"
+git commit -m root "adding root dir"
+git commit -m /root "adding root dir"
+git commit -m "adding root dir"
+git push -u origin master
+ls
+cat test 
+vi test
+cat test 
+git status
+git add test 
+git commit -m "adding modified test"
+git status
+git push -u origin master
+nginx
 exit
