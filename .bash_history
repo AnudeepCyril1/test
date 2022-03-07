@@ -1,81 +1,3 @@
-apt update
-clear
-ls
-touch aws/devops/softlink
-mkdir aws/devops/softlink/
-mkdir aws/devops/softlink
-mkdir /aws/devops/softlink
-mkdir /aws/devops/softlink/
-clear
-mkdir aws
-ls
-rm -rf snap
-ls
-cd aws/
-mkdir devops
-ls
-cd devops/
-ls
-touch sample
-cd
-touch test
-mkdir aws
-cd aws/
-ls
-mkdir operations
-ls
-cd operations/
-touch sample2
-ls
-cd
-ls -l
-ln -s /root/test/ /aws/devops/softlink/
-cd aws/devops/
-ls
-cd..
-cd.
-cd
-cd aws/
-ls
-cd operations/
-ls
-cd
-cd aws/
-cd devops/
-ls
-clear
-ls
-cd
-ln -s /root/test aws/devops/sample 
-ln -s /root/test aws/devops/sample 
-ls
-ls -l
-ln -s /root/test aws/devops/sample/ 
-ln -s /root/test aws/devops/sample/
-ln -s /root/test aws/devops/sample
-ls
-vi test
-ln -s /root/test aws/devops/sample 
-ln -s /root/test aws/devops/sample/
-mkdir aws/devops/soft-link
-mkdir -p aws/devops/soft-link/test1
-cd aws/devops/soft-link/test1/
-touch softlink
-ls
-cd
-ln -s /root/test aws/devops/soft-link/test1/
-ls
-cd aws/devops/soft-link/
-ls
-ls -l
-cd test1/
-ls -l
-cat softlink 
-cd
-cat test 
-ln -s /root/test aws/devops/
-ls
-cd aws/devops/
 ls
 cd soft-link/
 ls
@@ -498,3 +420,81 @@ git status
 git push -u origin master
 nginx
 exit
+apt update
+niginx status
+nginx
+ls
+cat s
+cat source2 
+cat test 
+service nginx status
+ls
+cat test
+ls
+git remote add origin https://github.com/Anudre63/test.git
+ls
+git pull
+ls
+git branch --set-upstream-to=origin/master
+git pull
+ls
+cat sample 
+cat test
+vi same
+ls
+vi sample 
+cat sample 
+git push -u origin master
+git satus
+git status
+git add test
+git status
+git add same
+git status
+git add sample 
+git status
+git push -u origin master
+cat test
+cat sample
+git pull test
+git pull
+git commit -m test "add line in test"
+git commit -m sample "new sample"
+git commit -m same "adding same"
+git branch -M master
+git push -u origin master
+git push --help
+git pull --help
+git status
+git add sample test same
+git status
+git commit -m test "test"
+git commit test -m "testing"
+git commit test -i "testing"
+git commit -a test
+git commit -i test
+git add .bash_history .viminfo 
+git status
+git commit -m .bash_history .viminfo 
+git push -u origin master
+git status
+git push .bash_history
+git add .bash_history 
+git status
+git commit -m .bash_history 
+git push -u origin master
+git status
+ls
+cat same
+cat sample 
+rm -rf same
+ls
+cat smaple
+cat sample
+cat test
+ls
+cat 1
+ls
+cat sample
+vi sample
+git status
