@@ -34,20 +34,21 @@
 	
 
 # File marks:
-'0  3  30  ~/sample
-'1  1  0  ~/same
-'2  1  14  ~/test
-'3  23  12  /var/www/html/index.nginx-debian.html
-'4  1  6  ~/source
-'5  2  14  ~/test1
-'6  1  15  ~/aws/devops/test2
-'7  3  14  ~/test1
-'8  1  0  ~/tetr
-'9  5  5  ~/sample.tar
+'0  5  0  ~/sample
+'1  6  30  ~/sample
+'2  1  0  ~/same
+'3  1  14  ~/test
+'4  23  12  /var/www/html/index.nginx-debian.html
+'5  1  6  ~/source
+'6  2  14  ~/test1
+'7  1  15  ~/aws/devops/test2
+'8  3  14  ~/test1
+'9  1  0  ~/tetr
 
 # Jumplist (newest first):
--'  3  30  ~/sample
+-'  5  0  ~/sample
 -'  1  0  ~/sample
+-'  6  30  ~/sample
 -'  1  0  ~/same
 -'  1  14  ~/test
 -'  23  12  /var/www/html/index.nginx-debian.html
@@ -143,16 +144,16 @@
 -'  1  8  ~/anudeep/devops/a
 -'  1  2  ~/monday
 -'  1  7  ~/sample/test
--'  1  7  ~/sam
 
 # History of marks within files (newest to oldest):
 
 > ~/sample
-	"	3	30
-	^	3	31
-	.	3	30
+	"	5	0
+	^	5	0
+	.	4	17
 	+	1	8
-	+	3	30
+	+	6	30
+	+	4	17
 
 > ~/same
 	"	1	0
